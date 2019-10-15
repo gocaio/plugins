@@ -1,0 +1,2 @@
+# plugins
+Goca plugins repository
